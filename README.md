@@ -13,7 +13,7 @@ I'm a software engineer who loves to learn new things and solve problems. I'm pa
 - TensorFlow and PyTorch for creating deep neural networks
 - AWS and Azure for deploying and scaling applications
 
-## 💬 Ask me about ...
+## 💬 Ask me about ....
 
 - Anything related to web development, data science, or machine learning
 - My favorite tools and frameworks
