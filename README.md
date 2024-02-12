@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 # Hi there, I'm Dedan 👋
 
 I'm a software engineer who loves to learn new things and solve problems. I'm passionate about web development, data science, and machine learning. 
