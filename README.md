@@ -7,7 +7,7 @@ I'm a software engineer who loves to learn new things and solve problems. I'm pa
 
 - A number of Project "All Clsssified"
 
-## 🌱 I’m currently learning ....
+## 🌱 I’m currently learning ...
 
 - React.js and Next.js for building dynamic web pages
 - TensorFlow and PyTorch for creating deep neural networks
