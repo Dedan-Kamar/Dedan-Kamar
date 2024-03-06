@@ -3,7 +3,7 @@
 
 I'm a software engineer who loves to learn new things and solve problems. I'm passionate about web development, data science, and machine learning. 
 
-## 🔭 I’m currently working on ....
+## 🔭 I’m currently working on .....
 
 - A number of Project "All Clsssified"
 
